@@ -2,15 +2,6 @@
 
 >**H4ckWeb** is a powerful, advanced tool designed for testing web vulnerabilities, focusing on SQL Injection and Cross-Site Scripting (XSS). It allows security professionals and ethical hackers to easily identify vulnerabilities in web applications and report them.
 
-## Features
-
-- **SQL Injection Testing**: Automatically tests for SQL injection vulnerabilities with a variety of payloads.
-- **XSS Testing**: Injects custom XSS payloads to identify potential vulnerabilities.
-- **Detailed Logging**: All test results are saved in `logs.txt` for later review.
-- **Multithreading and Asynchronous Testing**: Supports both threaded and async testing for faster vulnerability detection.
-- **Proxy Support**: Optionally use proxies to route traffic during testing.
-- **Custom Headers**: Add custom HTTP headers for requests to simulate real-world traffic or testing conditions.
-
 ## Requirements
 
 - 🐍 Python 3.x
@@ -61,6 +52,28 @@ To start the tool, simply run the script:
 ```bash
 python h4ckweb.py
 ```
+---
+
+### License 
+MIT License - see the [LICENSE](https://github.com/Fear2o/H4ckWeb/blob/main/LICENSE) file for details.
+
+---
+
+## Why Choose H4ckWeb? 
+- **SQL Injection Testing**: Automatically tests for SQL injection vulnerabilities with a variety of payloads.
+- **XSS Testing**: Injects custom XSS payloads to identify potential vulnerabilities.
+- **Detailed Logging**: All test results are saved in `logs.txt` for later review.
+- **Multithreading and Asynchronous Testing**: Supports both threaded and async testing for faster vulnerability detection.
+- **Proxy Support**: Optionally use proxies to route traffic during testing.
+- **Custom Headers**: Add custom HTTP headers for requests to simulate real-world traffic or testing conditions.
+
+---
+
+## ⭐ **Give Us a Star!** ⭐
+
+If you find **H4ckWeb** useful, give us a ⭐! Your support helps us improve and build more powerful security tools for the community.
+
+---
 
 ### Important Notes:
 - Ethical Use Only: This tool is intended for educational and ethical testing purposes. Ensure you have explicit permission before testing any website or web application.
