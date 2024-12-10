@@ -1,6 +1,6 @@
 # H4ckWeb
 
-**H4ckWeb** is a powerful, advanced tool designed for testing web vulnerabilities, focusing on SQL Injection and Cross-Site Scripting (XSS). It allows security professionals and ethical hackers to easily identify vulnerabilities in web applications and report them.
+>**H4ckWeb** is a powerful, advanced tool designed for testing web vulnerabilities, focusing on SQL Injection and Cross-Site Scripting (XSS). It allows security professionals and ethical hackers to easily identify vulnerabilities in web applications and report them.
 
 ## Features
 
