@@ -14,6 +14,10 @@
 ## Requirements
 
 - Python 3.x
+- 🖥 Linux (Arch, Ubuntu, Kali)
+- 📱 Termux
+- 🖥 Windows
+- 🖥 macOS
 
 ## Installation
 
