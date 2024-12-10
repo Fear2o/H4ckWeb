@@ -17,67 +17,40 @@
 
 ## Installation
 
-### Windows
+### For Termux (Android)
 
+To use **H4ckWeb** in Termux, type the following commands:
 
-2. **Clone the repository**:
-   - Open Command Prompt (`cmd`) or PowerShell and run:
-     ```bash
-     git clone https://github.com/yourusername/H4ckWeb.git
-     cd H4ckWeb
-     ```
+```bash
+pkg install git -y
+pkg install python3 -y
+git clone https://github.com/Fear2o/H4ckWeb
+cd h4ckweb
+pip install -r requirements.txt
+```
 
-3. **Install dependencies**:
-     ```bash
-     pip install -r requirements.txt
-     ```
+### For Debian-based GNU/Linux Distributions (Kali, Ubuntu, etc.)
 
-4. **Run the tool**:
-     ```bash
-     python h4ckweb.py
-     ```
+To use H4ckWeb on Linux, run the following commands in the terminal:
+```bash
+sudo apt install git
+git clone https://github.com/Fear2o/H4ckWeb
+cd h4ckweb
+pip install -r requirements.txt
+```
 
-### macOS
+### For Windows
+For Windows, run the following commands in Command Prompt or PowerShell:
+```bash
+git clone https://github.com/yourusername/H4ckWeb.git
+cd h4ckweb
+pip install -r requirements.txt
+```
 
-2. **Clone the repository**:
-   - Open Terminal and run:
-     ```bash
-     git clone https://github.com/yourusername/H4ckWeb.git
-     cd H4ckWeb
-     ```
-
-3. **Install dependencies**:
-     ```bash
-     pip3 install -r requirements.txt
-     ```
-
-4. **Run the tool**:
-     ```bash
-     python3 h4ckweb.py
-     ```
-
-### Linux (Ubuntu/Debian)
-
-2. **Clone the repository**:
-   - Open Terminal and run:
-     ```bash
-     git clone https://github.com/yourusername/H4ckWeb.git
-     cd H4ckWeb
-     ```
-
-3. **Install dependencies**:
-     ```bash
-     pip3 install -r requirements.txt
-     ```
-
-4. **Run the tool**:
-     ```bash
-     python3 h4ckweb.py
-     ```
+### For macOS
+On macOS, ensure you have Python 3 installed and then follow the Linux instructions above.
 
 ## Usage
-
-### Running the Tool
 
 To start the tool, simply run the script:
 
