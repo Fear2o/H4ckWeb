@@ -20,7 +20,7 @@ To use **H4ckWeb** in Termux, type the following commands:
 pkg install git -y
 pkg install python3 -y
 git clone https://github.com/Fear2o/H4ckWeb
-cd h4ckweb
+cd H4ckWeb
 pip install -r requirements.txt
 ```
 
@@ -30,7 +30,7 @@ To use H4ckWeb on Linux, run the following commands in the terminal:
 ```bash
 sudo apt install git
 git clone https://github.com/Fear2o/H4ckWeb
-cd h4ckweb
+cd H4ckWeb
 pip install -r requirements.txt
 ```
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 For Windows, run the following commands in Command Prompt or PowerShell:
 ```bash
 git clone https://github.com/yourusername/H4ckWeb.git
-cd h4ckweb
+cd H4ckWeb
 pip install -r requirements.txt
 ```
 
@@ -50,7 +50,7 @@ On macOS, ensure you have Python 3 installed and then follow the Linux instructi
 To start the tool, simply run the script:
 
 ```bash
-python h4ckweb.py
+python H4ckWeb.py
 ```
 ---
 
